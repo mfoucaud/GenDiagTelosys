@@ -1,0 +1,43 @@
+Update date : Tue Nov 26 15:46:13 CET 2013
+ 
+ Table 'AUTHOR' found in repository
+ (=) table 'AUTHOR' unchanged
+ 
+ Table 'BADGE' found in repository
+ (=) table 'BADGE' unchanged
+ 
+ Table 'BOOK' found in repository
+ (=) table 'BOOK' unchanged
+ 
+ Table 'BOOK_ORDER' found in repository
+ (=) table 'BOOK_ORDER' unchanged
+ 
+ Table 'BOOK_ORDER_ITEM' found in repository
+ (=) table 'BOOK_ORDER_ITEM' unchanged
+ 
+ Table 'COUNTRY' found in repository
+ (=) table 'COUNTRY' unchanged
+ 
+ Table 'CUSTOMER' found in repository
+ (=) table 'CUSTOMER' unchanged
+ 
+ Table 'EMPLOYEE' found in repository
+ (=) table 'EMPLOYEE' unchanged
+ 
+ Table 'EMPLOYEE_GROUP' found in repository
+ (=) table 'EMPLOYEE_GROUP' unchanged
+ 
+ Table 'PUBLISHER' found in repository
+ (=) table 'PUBLISHER' unchanged
+ 
+ Table 'REVIEW' found in repository
+ (=) table 'REVIEW' unchanged
+ 
+ Table 'SHOP' found in repository
+ (=) table 'SHOP' unchanged
+ 
+ Table 'SYNOPSIS' found in repository
+ (=) table 'SYNOPSIS' unchanged
+ 
+ Table 'WORKGROUP' found in repository
+ (=) table 'WORKGROUP' unchanged

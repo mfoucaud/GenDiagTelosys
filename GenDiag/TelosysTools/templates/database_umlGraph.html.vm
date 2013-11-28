@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <link rel="canonical" href="http://www.jointjs.com/" />
+        <meta name="description" content="Create interactive diagrams in JavaScript easily. JointJS plugins for ERD, Org chart, FSA, UML, PN, DEVS, LDM diagrams are ready to use." />
+        <meta name="keywords" content="JointJS, JavaScript, diagrams, diagramming library, UML, charts" />
+
+        <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="http://www.jointjs.com/css/style.css" />
+        <link rel="stylesheet" href="http://www.jointjs.com/css/joint.css" />
+        <link rel="stylesheet" href="http://www.jointjs.com/css/tutorial.css" />
+
+        <title>Table ${entity.databaseTable} Relationship</title>   
+    </head>
+    <body>
+
+
+        <section id="noid">
+
+          <div id="pn" class="content-container">
+  <h3>Table ${entity.databaseTable} Relationship</h3>
+	<div id="error"></div>
+  	<div id="paper" class="paper"/>
+ 	
+	</div>
+  	<aside id="paper-small" class="paper" style="float:right">
+	</aside>
+
+	<button onclick="saveGraph();">Save Graph</button> 
+	<button onclick="loadGraph();">Load Graph</button> 
+<script src="http://www.jointjs.com/js/joint.js"></script>
+<script src="http://www.jointjs.com/js/joint.shapes.uml.js"></script>
+<script src="./js/${entity.name}.js"></script>
+
+
+        </section>
+
+        <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5029684-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+    </body>
+</html>
